@@ -1,0 +1,10 @@
+torch>=2.0.0
+numpy
+tqdm
+einops
+matplotlib
+pillow
+scikit-image
+tensorboard
+timm
+clip @ git+https://github.com/openai/CLIP.git
